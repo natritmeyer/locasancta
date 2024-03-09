@@ -9,7 +9,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Loca Sancta',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Helping you plan visits to the sites and museums of Scripture and Early Christianity',
+
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
