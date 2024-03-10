@@ -43,6 +43,8 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
+          breadcrumbs: true,
+          showLastUpdateTime: true,
         },
         blog: false,
         theme: {
